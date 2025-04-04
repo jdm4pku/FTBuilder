@@ -1,6 +1,8 @@
 import os
 import json
 from tqdm import tqdm
+import openai
+import time
 from openai import OpenAI
 
 def load_json(file_path):
@@ -41,7 +43,7 @@ def get_completion(prompt):
 
 
 def find_with_construct_tree(req):
-    ## DFS便利，大模型判断
+    ## DFS遍历，大模型判断
     # 遍历最上层的feature
     layer1_feature = load_json("feature_tree/best_tree/2_layer.json")
     for lay1_feature_item in layer1_feature:
@@ -60,7 +62,7 @@ def find_with_construct_tree(req):
             if item["name"] in children:
                 layer2_feature.append(item)
         assert len(layer2_feature) == len(children)
-        for layer2_feature_item in lay2_feature:
+        for layer2_feature_item in layer2_feature:
             name = layer2_feature_item["name"]
             description = layer2_feature_item["description"]
             feature_node = f"Name:{name} \t Description:{description}"
@@ -69,7 +71,7 @@ def find_with_construct_tree(req):
             if answer == "no":
                 continue
             ## 如果是yes，继续遍历它的children
-            children = eval(lay2_feature_item["children"])
+            children = eval(layer2_feature_item["children"])
             layer3_feature = []
             all_layer3_feature = load_json("feature_tree/best_tree/0_layer.json")
             for item in all_layer3_feature:
@@ -90,7 +92,7 @@ def find_with_construct_tree(req):
 def predict_with_construct_tree():
     artsel = load_json("dataset/artsel/dataset_1.json")
     predicted_artifact_list = []
-    for req_item in tqdm(artsel, desc="Processing requirements", unit="requirement"):
+    for req_item in tqdm(artsel, desc="Selecting Artifacts", unit="requirement"):
         req = req_item["requirement"]
         artifact = req_item["artifact"]
         predict_artifact = find_with_construct_tree(req)
@@ -109,15 +111,5 @@ def predict_with_construct_tree():
 
 if __name__=="__main__":  
     predict_with_construct_tree()
-
-                     
-
-            
-            
-            
-            
-
     pass
 
-if __name__=="__main":
-    find_artifact_with_construct_tree()
