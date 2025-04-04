@@ -1,0 +1,1306 @@
+[
+    {
+        "name": "File ",
+        "parent": "Aapplications"
+    },
+    {
+        "name": "Internet ",
+        "parent": "Aapplications"
+    },
+    {
+        "name": "Games ",
+        "parent": "Amusements"
+    },
+    {
+        "name": "Games",
+        "parent": "Amusements"
+    },
+    {
+        "name": "Graphics ",
+        "parent": "Amusements"
+    },
+    {
+        "name": "Teaching",
+        "parent": "Amusements"
+    },
+    {
+        "name": "Toys",
+        "parent": "Amusements"
+    },
+    {
+        "name": "System ",
+        "parent": "Application"
+    },
+    {
+        "name": " ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Archiving ",
+        "parent": "Applications"
+    },
+    {
+        "name": "CPAN ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Communication ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Communications ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Daemons ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Database ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Databases ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Desktop ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Development ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Editors ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Education ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Emulators ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Engineering ",
+        "parent": "Applications"
+    },
+    {
+        "name": "File ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Financial ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Games ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Graphics ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Internet ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Multimedia ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Networking ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Other ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Poductivity ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Productivity ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Productivity",
+        "parent": "Applications"
+    },
+    {
+        "name": "Publishing ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Scientific ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Shells ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Storage ",
+        "parent": "Applications"
+    },
+    {
+        "name": "System ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Text ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Tools ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Video ",
+        "parent": "Applications"
+    },
+    {
+        "name": "X11 ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Backup ",
+        "parent": "Archiving"
+    },
+    {
+        "name": "Cd burning ",
+        "parent": "Archiving"
+    },
+    {
+        "name": "Compression ",
+        "parent": "Archiving"
+    },
+    {
+        "name": "Other ",
+        "parent": "Archiving"
+    },
+    {
+        "name": "Computer books ",
+        "parent": "Books"
+    },
+    {
+        "name": "Howtos ",
+        "parent": "Books"
+    },
+    {
+        "name": "Literature ",
+        "parent": "Books"
+    },
+    {
+        "name": "Other ",
+        "parent": "Books"
+    },
+    {
+        "name": "Job Management ",
+        "parent": "Clustering"
+    },
+    {
+        "name": "Bluetooth ",
+        "parent": "Communications"
+    },
+    {
+        "name": "Dial-Up ",
+        "parent": "Communications"
+    },
+    {
+        "name": "Fax ",
+        "parent": "Communications"
+    },
+    {
+        "name": "Mobile ",
+        "parent": "Communications"
+    },
+    {
+        "name": "Radio ",
+        "parent": "Communications"
+    },
+    {
+        "name": "Serial ",
+        "parent": "Communications"
+    },
+    {
+        "name": "Telephony ",
+        "parent": "Communications"
+    },
+    {
+        "name": "education ",
+        "parent": "Converted"
+    },
+    {
+        "name": "COSMIC ",
+        "parent": "Desktop"
+    },
+    {
+        "name": "WM ",
+        "parent": "Desktop"
+    },
+    {
+        "name": "Audio ",
+        "parent": "Development"
+    },
+    {
+        "name": "Basic ",
+        "parent": "Development"
+    },
+    {
+        "name": "C ",
+        "parent": "Development"
+    },
+    {
+        "name": "C and C++ ",
+        "parent": "Development"
+    },
+    {
+        "name": "C and C++",
+        "parent": "Development"
+    },
+    {
+        "name": "C++ ",
+        "parent": "Development"
+    },
+    {
+        "name": "C++ and C ",
+        "parent": "Development"
+    },
+    {
+        "name": "C",
+        "parent": "Development"
+    },
+    {
+        "name": "CPAN ",
+        "parent": "Development"
+    },
+    {
+        "name": "Databases ",
+        "parent": "Development"
+    },
+    {
+        "name": "Debug ",
+        "parent": "Development"
+    },
+    {
+        "name": "Debuggers ",
+        "parent": "Development"
+    },
+    {
+        "name": "Documentation ",
+        "parent": "Development"
+    },
+    {
+        "name": "Erlang ",
+        "parent": "Development"
+    },
+    {
+        "name": "Filesystems ",
+        "parent": "Development"
+    },
+    {
+        "name": "Fortran ",
+        "parent": "Development"
+    },
+    {
+        "name": "GNOME and GTK+ ",
+        "parent": "Development"
+    },
+    {
+        "name": "GNOME and GTK4 ",
+        "parent": "Development"
+    },
+    {
+        "name": "Go ",
+        "parent": "Development"
+    },
+    {
+        "name": "Graphics ",
+        "parent": "Development"
+    },
+    {
+        "name": "Hardware ",
+        "parent": "Development"
+    },
+    {
+        "name": "Java ",
+        "parent": "Development"
+    },
+    {
+        "name": "KDE and Qt ",
+        "parent": "Development"
+    },
+    {
+        "name": "Kernel ",
+        "parent": "Development"
+    },
+    {
+        "name": "Languages ",
+        "parent": "Development"
+    },
+    {
+        "name": "Languages",
+        "parent": "Development"
+    },
+    {
+        "name": "Libraries ",
+        "parent": "Development"
+    },
+    {
+        "name": "Libraries",
+        "parent": "Development"
+    },
+    {
+        "name": "LibrariesDevelopment",
+        "parent": "Development"
+    },
+    {
+        "name": "Library",
+        "parent": "Development"
+    },
+    {
+        "name": "Lua ",
+        "parent": "Development"
+    },
+    {
+        "name": "OCaml ",
+        "parent": "Development"
+    },
+    {
+        "name": "Other ",
+        "parent": "Development"
+    },
+    {
+        "name": "Others ",
+        "parent": "Development"
+    },
+    {
+        "name": "PHP ",
+        "parent": "Development"
+    },
+    {
+        "name": "Perl ",
+        "parent": "Development"
+    },
+    {
+        "name": "Productivity",
+        "parent": "Development"
+    },
+    {
+        "name": "Python ",
+        "parent": "Development"
+    },
+    {
+        "name": "Qt and KDE ",
+        "parent": "Development"
+    },
+    {
+        "name": "Ruby ",
+        "parent": "Development"
+    },
+    {
+        "name": "Rust ",
+        "parent": "Development"
+    },
+    {
+        "name": "Sources ",
+        "parent": "Development"
+    },
+    {
+        "name": "System ",
+        "parent": "Development"
+    },
+    {
+        "name": "Testing ",
+        "parent": "Development"
+    },
+    {
+        "name": "Tools ",
+        "parent": "Development"
+    },
+    {
+        "name": "Tools",
+        "parent": "Development"
+    },
+    {
+        "name": "Vala ",
+        "parent": "Development"
+    },
+    {
+        "name": "X11 ",
+        "parent": "Development"
+    },
+    {
+        "name": "Libraries",
+        "parent": "Develpoment"
+    },
+    {
+        "name": "HTML ",
+        "parent": "Documentation"
+    },
+    {
+        "name": "Howto ",
+        "parent": "Documentation"
+    },
+    {
+        "name": "Man ",
+        "parent": "Documentation"
+    },
+    {
+        "name": "Other ",
+        "parent": "Documentation"
+    },
+    {
+        "name": "PDF ",
+        "parent": "Documentation"
+    },
+    {
+        "name": "SUSE ",
+        "parent": "Documentation"
+    },
+    {
+        "name": "Enlightenment ",
+        "parent": "Editors"
+    },
+    {
+        "name": "GNOME ",
+        "parent": "Editors"
+    },
+    {
+        "name": "Games ",
+        "parent": "Emulator"
+    },
+    {
+        "name": "Games ",
+        "parent": "Emulators"
+    },
+    {
+        "name": "3D",
+        "parent": "Games"
+    },
+    {
+        "name": "Action ",
+        "parent": "Games"
+    },
+    {
+        "name": "Adventure ",
+        "parent": "Games"
+    },
+    {
+        "name": "Arcade ",
+        "parent": "Games"
+    },
+    {
+        "name": "Boards ",
+        "parent": "Games"
+    },
+    {
+        "name": "Cards ",
+        "parent": "Games"
+    },
+    {
+        "name": "FPS ",
+        "parent": "Games"
+    },
+    {
+        "name": "Internet ",
+        "parent": "Games"
+    },
+    {
+        "name": "Launcher ",
+        "parent": "Games"
+    },
+    {
+        "name": "Other ",
+        "parent": "Games"
+    },
+    {
+        "name": "Puzzles ",
+        "parent": "Games"
+    },
+    {
+        "name": "RPG ",
+        "parent": "Games"
+    },
+    {
+        "name": "Shooter ",
+        "parent": "Games"
+    },
+    {
+        "name": "Simulation ",
+        "parent": "Games"
+    },
+    {
+        "name": "Sports ",
+        "parent": "Games"
+    },
+    {
+        "name": "Strategy ",
+        "parent": "Games"
+    },
+    {
+        "name": "KDE ",
+        "parent": "Graphical Desktop"
+    },
+    {
+        "name": "Budgie ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "COSMIC ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "Cinnamon ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "Enlightenment ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "FVWM based ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "GNOME ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "Icewm ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "KDE ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "KDE",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "LXQt ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "MATE ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "Other ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "WindowMaker ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "Xfce ",
+        "parent": "Graphical desktop"
+    },
+    {
+        "name": "3D ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Editors and Converters ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Photography ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Scanning ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Viewers ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Camera ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Fax ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "ISDN ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Joystick ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Mobile ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Modem ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Other ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Palm ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Printing ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Psion ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Scanner ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "TV ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "UPS ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Wifi ",
+        "parent": "Hardware"
+    },
+    {
+        "name": "Wayland ",
+        "parent": "Hyprland"
+    },
+    {
+        "name": "Cosmic ",
+        "parent": "Icons"
+    },
+    {
+        "name": "WWW",
+        "parent": "Internet"
+    },
+    {
+        "name": "Web browser ",
+        "parent": "Internet"
+    },
+    {
+        "name": "Internet ",
+        "parent": "Multimedia"
+    },
+    {
+        "name": "Sound",
+        "parent": "Multimedia"
+    },
+    {
+        "name": "Video ",
+        "parent": "Multimedia"
+    },
+    {
+        "name": "Audio ",
+        "parent": "Music"
+    },
+    {
+        "name": "Hyrpland ",
+        "parent": "NWG"
+    },
+    {
+        "name": "Chat ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Diagnostic ",
+        "parent": "Networking"
+    },
+    {
+        "name": "File transfer ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Filesystem ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Filesystems ",
+        "parent": "Networking"
+    },
+    {
+        "name": "IRC ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Instant Messenger ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Instant messaging ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Mail ",
+        "parent": "Networking"
+    },
+    {
+        "name": "News ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Other ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Remote access ",
+        "parent": "Networking"
+    },
+    {
+        "name": "WWW ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Dictionary ",
+        "parent": "Office"
+    },
+    {
+        "name": "Finance ",
+        "parent": "Office"
+    },
+    {
+        "name": "Management ",
+        "parent": "Office"
+    },
+    {
+        "name": "Organizer ",
+        "parent": "Office"
+    },
+    {
+        "name": "Spreadsheet ",
+        "parent": "Office"
+    },
+    {
+        "name": "Suite ",
+        "parent": "Office"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Office"
+    },
+    {
+        "name": "Word processor ",
+        "parent": "Office"
+    },
+    {
+        "name": "Archiving",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Clustering",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Databases",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Editors",
+        "parent": "Productivity"
+    },
+    {
+        "name": "File Utilities ",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Graphics",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Hamradio",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Multimedia",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Networking ",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Networking",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Office",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Other ",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Publishing ",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Publishing",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Scientific ",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Scientific",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Security ",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Telephony",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Text",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Video",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Astronomy ",
+        "parent": "Sciences"
+    },
+    {
+        "name": "Biology ",
+        "parent": "Sciences"
+    },
+    {
+        "name": "Chemistry ",
+        "parent": "Sciences"
+    },
+    {
+        "name": "Computer science ",
+        "parent": "Sciences"
+    },
+    {
+        "name": "Geosciences ",
+        "parent": "Sciences"
+    },
+    {
+        "name": "Mathematics ",
+        "parent": "Sciences"
+    },
+    {
+        "name": "Other ",
+        "parent": "Sciences"
+    },
+    {
+        "name": "Physics ",
+        "parent": "Sciences"
+    },
+    {
+        "name": "Groupware ",
+        "parent": "Servers"
+    },
+    {
+        "name": "COSMIC ",
+        "parent": "Session"
+    },
+    {
+        "name": "Editors and Converters ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Midi ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Mixers ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Players ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Sound"
+    },
+    {
+        "name": "COSMIC ",
+        "parent": "Store"
+    },
+    {
+        "name": "Base ",
+        "parent": "System Environment"
+    },
+    {
+        "name": "Console ",
+        "parent": "System Environment"
+    },
+    {
+        "name": "Daemons ",
+        "parent": "System Environment"
+    },
+    {
+        "name": "Kernel ",
+        "parent": "System Environment"
+    },
+    {
+        "name": "Libraries ",
+        "parent": "System Environment"
+    },
+    {
+        "name": "Shells ",
+        "parent": "System Environment"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "System Environment"
+    },
+    {
+        "name": "Backgrounds ",
+        "parent": "System"
+    },
+    {
+        "name": "Base ",
+        "parent": "System"
+    },
+    {
+        "name": "Benchmark ",
+        "parent": "System"
+    },
+    {
+        "name": "Boot ",
+        "parent": "System"
+    },
+    {
+        "name": "Boot and Init ",
+        "parent": "System"
+    },
+    {
+        "name": "Cluster ",
+        "parent": "System"
+    },
+    {
+        "name": "Configuration ",
+        "parent": "System"
+    },
+    {
+        "name": "Configuration",
+        "parent": "System"
+    },
+    {
+        "name": "Console ",
+        "parent": "System"
+    },
+    {
+        "name": "Daemons ",
+        "parent": "System"
+    },
+    {
+        "name": "Deepin ",
+        "parent": "System"
+    },
+    {
+        "name": "Emulators",
+        "parent": "System"
+    },
+    {
+        "name": "Fhs ",
+        "parent": "System"
+    },
+    {
+        "name": "Filesystems ",
+        "parent": "System"
+    },
+    {
+        "name": "Firmware ",
+        "parent": "System"
+    },
+    {
+        "name": "Fonts",
+        "parent": "System"
+    },
+    {
+        "name": "GUI ",
+        "parent": "System"
+    },
+    {
+        "name": "GUI",
+        "parent": "System"
+    },
+    {
+        "name": "Hardware ",
+        "parent": "System"
+    },
+    {
+        "name": "Hyprland ",
+        "parent": "System"
+    },
+    {
+        "name": "I18n ",
+        "parent": "System"
+    },
+    {
+        "name": "I18n",
+        "parent": "System"
+    },
+    {
+        "name": "Internationalization ",
+        "parent": "System"
+    },
+    {
+        "name": "Kernel ",
+        "parent": "System"
+    },
+    {
+        "name": "Kernel and hardware ",
+        "parent": "System"
+    },
+    {
+        "name": "Libraries ",
+        "parent": "System"
+    },
+    {
+        "name": "Libraries",
+        "parent": "System"
+    },
+    {
+        "name": "Library ",
+        "parent": "System"
+    },
+    {
+        "name": "Localization ",
+        "parent": "System"
+    },
+    {
+        "name": "Management ",
+        "parent": "System"
+    },
+    {
+        "name": "Monitoring ",
+        "parent": "System"
+    },
+    {
+        "name": "Networking ",
+        "parent": "System"
+    },
+    {
+        "name": "Packages ",
+        "parent": "System"
+    },
+    {
+        "name": "Packaging ",
+        "parent": "System"
+    },
+    {
+        "name": "Printing ",
+        "parent": "System"
+    },
+    {
+        "name": "Servers ",
+        "parent": "System"
+    },
+    {
+        "name": "Shells ",
+        "parent": "System"
+    },
+    {
+        "name": "Sound ",
+        "parent": "System"
+    },
+    {
+        "name": "Sound Daemons ",
+        "parent": "System"
+    },
+    {
+        "name": "Terminals ",
+        "parent": "System"
+    },
+    {
+        "name": "Tools ",
+        "parent": "System"
+    },
+    {
+        "name": "Tools",
+        "parent": "System"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "System"
+    },
+    {
+        "name": "X11 ",
+        "parent": "System"
+    },
+    {
+        "name": "X11",
+        "parent": "System"
+    },
+    {
+        "name": "YaST ",
+        "parent": "System"
+    },
+    {
+        "name": "boot ",
+        "parent": "System"
+    },
+    {
+        "name": "libraries",
+        "parent": "System"
+    },
+    {
+        "name": "Networking ",
+        "parent": "Systems"
+    },
+    {
+        "name": "COSMIC ",
+        "parent": "Terminal"
+    },
+    {
+        "name": "Editors ",
+        "parent": "Text"
+    },
+    {
+        "name": "COSMIC ",
+        "parent": "Toold"
+    },
+    {
+        "name": "Monitiring",
+        "parent": "Tools"
+    },
+    {
+        "name": "Monitoring ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Desktops ",
+        "parent": "User Interface"
+    },
+    {
+        "name": "X ",
+        "parent": "User Interface"
+    },
+    {
+        "name": "X Hardware Support ",
+        "parent": "User Interface"
+    },
+    {
+        "name": "Desktops ",
+        "parent": "User interface"
+    },
+    {
+        "name": "Math ",
+        "parent": "Utilities"
+    },
+    {
+        "name": "COSMIC ",
+        "parent": "Utility"
+    },
+    {
+        "name": "Hyprland ",
+        "parent": "Utility"
+    },
+    {
+        "name": "Hyrpland ",
+        "parent": "Utility"
+    },
+    {
+        "name": "Stress Test ",
+        "parent": "Utility"
+    },
+    {
+        "name": "Editors ",
+        "parent": "Video"
+    },
+    {
+        "name": "Editors and Converters ",
+        "parent": "Video"
+    },
+    {
+        "name": "Multimedia ",
+        "parent": "Video"
+    },
+    {
+        "name": "Players ",
+        "parent": "Video"
+    },
+    {
+        "name": "Television ",
+        "parent": "Video"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Video"
+    },
+    {
+        "name": "Management ",
+        "parent": "Virtualization"
+    },
+    {
+        "name": "NWG ",
+        "parent": "WM"
+    },
+    {
+        "name": "Wayfire ",
+        "parent": "WM"
+    },
+    {
+        "name": "COSMIC ",
+        "parent": "Wallpapers"
+    },
+    {
+        "name": "Applications",
+        "parent": "X11"
+    },
+    {
+        "name": "KDE",
+        "parent": "X11"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "X11"
+    },
+    {
+        "name": "applications ",
+        "parent": "kde"
+    },
+    {
+        "name": "kernel ",
+        "parent": "system environment"
+    },
+    {
+        "name": "GUI",
+        "parent": "system"
+    },
+    {
+        "name": "libraries ",
+        "parent": "system"
+    },
+    {
+        "name": "Daemons ",
+        "parent": "ystem Environment"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "name": "Relational Database Systems",
+        "description": "A collection of features representing relational database systems and their components, including database server and client implementations. These systems support the storage, retrieval, and efficient management of structured data, catering to diverse enterprise, cloud, and open-source use cases.",
+        "children": [
+            "Alibaba database",
+            "MariaDB Database Client",
+            "MariaDB Database Server",
+            "PostgreSQL Database Client",
+            "PostgreSQL Database Server",
+            "openGauss Server"
+        ]
+    },
+    {
+        "name": "Deepin Desktop Ecosystem",
+        "description": "The Deepin Desktop Ecosystem provides a cohesive, elegant, and user-friendly desktop environment tailored for Linux users. It encompasses a range of components that deliver an integrated graphical interface, including core desktop applications, media packages, and the underlying common libraries essential for graphical sessions. This ecosystem aims to offer a seamless user experience by combining the Deepin Desktop Environment, its enhanced new desktop environment packages, and specialized applications for productivity and media consumption.",
+        "children": [
+            "Deepin Desktop Applications",
+            "Deepin Desktop Environment",
+            "Deepin New Desktop Environment",
+            "Media packages for Deepin Desktop",
+            "base-graphical"
+        ]
+    },
+    {
+        "name": "Linux Product Core and OSTree Support",
+        "description": "A parent feature encompassing the foundational core packages and OSTree support needed for various Linux product offerings. This feature ensures a consistent and modular structure for client, server, compute node, and workstation variants. It also includes specialized support for ostree-based systems for atomic host and workstation configurations, ensuring seamless updates and version management.",
+        "children": [
+            "Atomic Host ostree support",
+            "Linux Client product core",
+            "Linux ComputeNode product core",
+            "Linux Server product core",
+            "Linux Workstation product core",
+            "Workstation ostree support"
+        ]
+    },
+    {
+        "name": "Cloud and Virtualization Ecosystem",
+        "description": "A comprehensive feature encompassing tools, packages, and utilities for managing, deploying, and integrating cloud environments, containers, and virtualization platforms. This parent feature includes functionality for bootloader tools tailored for cloud images, infrastructure packages for cloud computing environments, and software for server and system image management. It also provides robust support for Linux container-based technologies (including Docker and Kubernetes), hypervisor-specific utilities (like those for Hyper-V, KVM, and VMware), and management tools for virtualized environments. The ecosystem further extends to guest and desktop agents, headless and graphical virtualization deployments, Open vSwitch integration, Vagrant with libvirt support, and tools for managing offline virtual disk images, making it a complete solution for cloud and virtualization needs.",
+        "children": [
+            "Bootloader tools for Cloud images",
+            "Cloud Infrastructure",
+            "Cloud Management Tools",
+            "Cloud Server Tools",
+            "Container Management",
+            "Docker Toolkit",
+            "Guest Agents",
+            "Guest Desktop Agents",
+            "Headless Virtualization",
+            "Hyper-v platform specific packages",
+            "KVM platform specific packages",
+            "VMware Platform Support",
+            "VMware platform specific packages",
+            "Vagrant with libvirt support",
+            "Virtualization",
+            "Virtualization Client",
+            "Virtualization Hypervisor",
+            "Virtualization Openvswitch",
+            "Virtualization Platform",
+            "Virtualization Tools"
+        ]
+    },
+    {
+        "name": "Advanced System and Hardware Management Tools",
+        "description": "This parent feature encompasses a collection of specialized tools and utilities for enhancing system administration, hardware engineering, and system management. It includes additional activities for the Sugar environment, electronic design and simulation tools for hardware engineers, utilities for supporting uncommon server hardware, toolchains for hardware-specific projects such as Milkymist, and low-level frameworks for system and hardware management. Together, these tools cater to advanced use cases in system administration, hardware engineering, and system-level optimization.",
+        "children": [
+            "Additional Sugar Activities",
+            "Electronic Lab",
+            "Hardware Support for Server Systems",
+            "Milkymist",
+            "System Administration Tools",
+            "System Management"
+        ]
+    },
+    {
+        "name": "Development Tools and Compatibility Features",
+        "description": "A comprehensive set of tools, libraries, and compatibility features to facilitate software development, cross-platform programming, and migration. This parent feature includes resources for building open-source applications, ensuring compatibility with legacy UNIX environments and previous Linux versions, and supporting domain-specific programming needs. It also includes tools and frameworks for cross-compiling applications and working with a variety of development environments.",
+        "children": [
+            "Additional Development",
+            "Compatibility Libraries",
+            "Emacs",
+            "Haskell",
+            "Legacy UNIX Compatibility",
+            "MinGW cross-compiler",
+            "Platform Development"
+        ]
+    },
+    {
+        "name": "System and Network Functional Utilities",
+        "description": "A comprehensive collection of graphical, text-based, and command-line tools designed for system administration, network management, accessibility, internet applications, server configuration, and email utilities. This feature covers both essential desktop and server functionalities, ensuring a versatile and accessible environment for handling administrative tasks, network operations, email communication, server management, and accessibility compatibility with desktop environments.",
+        "children": [
+            "Administration Tools",
+            "Common NetworkManager submodules",
+            "Desktop accessibility",
+            "Graphical Internet",
+            "Internet Applications",
+            "News Server",
+            "Server Configuration Tools",
+            "Text-based Internet"
+        ]
+    },
+    {
+        "name": "Linux Desktop Environments and Applications",
+        "description": "This parent feature encompasses a wide range of desktop environments and their associated applications, providing users with diverse options to customize their Linux experience. These desktop environments include feature-rich options for modern user interfaces, lightweight solutions for hardware-constrained systems, and traditional layouts for users seeking familiarity. The associated applications complement the desktop environments, enabling a cohesive and efficient user experience. This feature supports various user needs, from gaming to intuitive workflows, and is designed to cater to all levels of hardware and user expertise.",
+        "children": [
+            "A phone/tablet UX environment",
+            "Budgie",
+            "Budgie Desktop Applications",
+            "Cinnamon",
+            "Enlightenment",
+            "Extra games for the GNOME Desktop",
+            "GNOME",
+            "GNOME Applications",
+            "LXDE",
+            "LXQt",
+            "MATE",
+            "MATE Applications",
+            "Xfce"
+        ]
+    },
+    {
+        "name": "Enterprise Identity, Access, and Security Management",
+        "description": "A comprehensive set of features designed to manage identity, access, authentication, and security in enterprise environments. This includes tools for client and server backup integration, directory service management, domain membership, certificate authority, identity management, remote desktop functionality, and advanced security tools. It supports centralized control of user and machine identities while providing robust mechanisms for trust verification and authentication, including smart card support.",
+        "children": [
+            "Backup Client",
+            "Directory Client",
+            "Directory Server",
+            "Dogtag Certificate System",
+            "Domain Membership",
+            "FreeIPA Server",
+            "Identity Management Server",
+            "Remote Desktop Clients",
+            "Security Tools",
+            "Smart Card Support"
+        ]
+    },
+    {
+        "name": "Programming Languages, Frameworks, and Development Tools",
+        "description": "A comprehensive suite of tools, runtimes, and frameworks designed to support software development in a variety of programming languages, including Java, Python, Ruby, OCaml, PHP, and Perl. This feature encompasses support for developing, running, and deploying applications on the Linux platform, providing a robust environment for developers. It includes development tools, language runtimes, libraries, application servers, and popular web development frameworks to enable full stack development for both server and desktop use cases.",
+        "children": [
+            "Alibaba dragnonwell",
+            "Development Tools",
+            "Java",
+            "Java Application Server",
+            "Java Development",
+            "Java Platform",
+            "OCaml",
+            "PHP",
+            "PHP Support",
+            "Perl Development",
+            "Perl Support",
+            "Perl for Web",
+            "Python",
+            "Ruby",
+            "Ruby Support",
+            "Ruby on Rails",
+            "Tomcat"
+        ]
+    },
+    {
+        "name": "System Administration and Performance Tools",
+        "description": "A comprehensive set of tools and utilities designed to facilitate system administration, networking, performance monitoring, debugging, security auditing, and management tasks across various environments, including desktop, server, mainframe, and remote systems. These tools enable users to manage, diagnose, and optimize system performance, administer networks, access resources, and ensure security compliance in both graphical and headless modes.",
+        "children": [
+            "Console Internet Tools",
+            "Debugging Tools",
+            "Desktop Debugging and Performance Tools",
+            "Dial-up Networking Support",
+            "Graphical Administration Tools",
+            "Hardware Monitoring Utilities",
+            "Headless Management",
+            "Large Systems Performance",
+            "Mainframe Access",
+            "Networking Tools",
+            "Performance Tools",
+            "Remote Management for Linux",
+            "Security Lab"
+        ]
+    },
+    {
+        "name": "Desktop Environment and General Office Suites",
+        "description": "A comprehensive parent feature encompassing various office suite and productivity solutions tailored for distinct desktop environments and general use cases. This feature includes specialized office suites for popular Linux desktop environments such as Deepin, KDE, LXDE, LXQt, and Xfce, alongside broader productivity tools like LibreOffice and full-purpose office solutions designed for general use. It ensures seamless integration of productivity applications across diverse desktop experiences.",
+        "children": [
+            "Deepin Desktop Office",
+            "KDE Office",
+            "LXDE Office",
+            "LXQt Office",
+            "LibreOffice",
+            "Office Suite and Productivity",
+            "Office/Productivity",
+            "Xfce Office"
+        ]
+    },
+    {
+        "name": "Critical Path Functionality",
+        "description": "A comprehensive feature that encompasses all critical path components and functionalities required for different distributions, desktops, and configuration purposes in the Linux ecosystem. The 'Critical Path Functionality' feature is composed of different sub-features, each addressing specific areas of critical importance for building, deploying, and running Linux systems effectively. These sub-features cover essential applications, shared base packages, build tools, system composability, and targeted functionalities for various desktop environments, server editions, installation mechanisms, and standard configurations.",
+        "children": [
+            "Critical Path (Applications)",
+            "Critical Path (Base)",
+            "Critical Path (Build)",
+            "Critical Path (Compose)",
+            "Critical Path (Deepin desktop)",
+            "Critical Path (GNOME)",
+            "Critical Path (KDE)",
+            "Critical Path (LXDE)",
+            "Critical Path (LXQt)",
+            "Critical Path (Server)",
+            "Critical Path (Xfce)",
+            "Critical Path (anaconda)",
+            "Critical Path (standard)",
+            "KDE Spin Initial Setup"
+        ]
+    },
+    {
+        "name": "Content Creation and Learning Tools",
+        "description": "This feature encompasses a wide range of tools and software designed for content creation, technical writing, text editing, educational purposes, and text rendering. It includes environments suitable for authoring, publishing, learning, and teaching, with a focus on providing resources for diverse use cases like document formatting, Python education, international text input, and the development of educational software.",
+        "children": [
+            "Authoring and Publishing",
+            "Editors",
+            "Educational Software",
+            "Fonts",
+            "Input Methods",
+            "Python Classroom",
+            "Sugar Desktop Environment",
+            "TeX formatting system",
+            "Technical Writing"
+        ]
+    },
+    {
+        "name": "System Services and Software Features",
+        "description": "A comprehensive collection of system services and software features that empower the system to act as a server, client, or provide specific capabilities such as printing, networking, web hosting, and 3D printing. This parent feature encapsulates functionalities that enable the system to serve as a foundational platform for various applications, enhancing its usability and extendibility for different operational and application needs.",
+        "children": [
+            "3D Printing",
+            "E-mail Server",
+            "FTP Server",
+            "Internet Browser",
+            "Network File System Client",
+            "Print Server",
+            "Printing Client",
+            "Printing Support",
+            "Web Server",
+            "Web Servlet Engine"
+        ]
+    },
+    {
+        "name": "Creative and Scientific Tools Suite",
+        "description": "A comprehensive collection of tools and toolkits designed to support scientific computing, creative content creation, and specialized software functionalities. This suite includes resources for Python-based scientific workflows, audio production, image manipulation, and system optimization, catering to both technical and artistic use cases.",
+        "children": [
+            "Anaconda Tools",
+            "Anolis Toolkit",
+            "Audio Production",
+            "Graphics Creation Tools",
+            "Keentune Toolkit",
+            "Python Science",
+            "Scientific Support"
+        ]
+    },
+    {
+        "name": "Desktop Environment Multimedia and Functionality Enhancements",
+        "description": "A comprehensive parent feature encompassing multimedia support, panel extensions, and functionality enhancements for various Linux desktop environments and related tools. This feature ensures advanced multimedia capabilities, seamless usability enhancements, and localization support across popular desktop environments like Xfce, KDE, LXDE, LXQt, and utilities such as the VideoLAN Client.",
+        "children": [
+            "Extra plugins for the Xfce panel",
+            "KDE Multimedia Support",
+            "Multimedia",
+            "Multimedia support for LXDE",
+            "Multimedia support for LXQt",
+            "Multimedia support for Xfce",
+            "Sound and Video",
+            "Translations of LXQt",
+            "VideoLAN Client"
+        ]
+    },
+    {
+        "name": "Development Tools and Libraries",
+        "description": "A comprehensive set of tools, libraries, and utilities required for software development and packaging across diverse platforms and programming languages. This feature encompasses development environments, core build tools, and specialized utility support for various languages such as .NET Core, C, D, and efficient Fedora packaging workflows.",
+        "children": [
+            ".NET Core Development",
+            "PowerTools",
+            "C Development Tools and Libraries",
+            "D Development Tools and Libraries",
+            "Fedora Packager",
+            "RPM Development Tools"
+        ]
+    },
+    {
+        "name": "Linux Software Design and Development Suite",
+        "description": "A comprehensive suite of packages and tools tailored for professional designers and software developers on the Linux platform. This feature encompasses software development environments, libraries, and resources for creating, enhancing, and maintaining a wide range of graphical, desktop, and application components. Whether you're designing graphical interfaces, creating custom extensions, or working with legacy systems, this suite provides the foundational and specialized elements required to streamline your development workflow.",
+        "children": [
+            "Design Suite",
+            "GNOME Software Development",
+            "KDE Frameworks 5 Software Development",
+            "KDE Frameworks 6 Software Development",
+            "KDE Software Development",
+            "Legacy Fonts",
+            "LibreOffice Development",
+            "X Software Development",
+            "Xfce Software Development"
+        ]
+    },
+    {
+        "name": "Infrastructure and High Availability Solutions",
+        "description": "A comprehensive suite of features and tools designed to enhance the scalability, resilience, and manageability of server infrastructure. This parent feature consolidates functionality for centralized backups, storage solutions, load balancing, high availability setups, and advanced network clustering, ensuring robust infrastructure for modern IT ecosystems. The sub-features include support for backup servers, file and storage services, load balancing, high availability configurations, Infiniband clustering technologies, resilient clustered storage, and essential network infrastructure services.",
+        "children": [
+            "Backup Server",
+            "File and Storage Server",
+            "HAProxy",
+            "High Availability",
+            "Infiniband Support",
+            "Load Balancer",
+            "Network Infrastructure Server",
+            "Resilient Storage"
+        ]
+    },
+    {
+        "name": "Comprehensive Software Functionality and Development Tools",
+        "description": "This parent feature encompasses a wide range of software functionality, tools, and libraries aimed at providing an all-encompassing environment for system management, application development, scientific computations, graphics manipulation, database management, hardware support, and file-sharing capabilities. It includes foundational components required for building and developing applications, as well as specialized tools for engineering, scientific modeling, and advanced system utilities.",
+        "children": [
+            "Buildsystem building group",
+            "Development Libraries",
+            "Engineering and Scientific",
+            "Font design and packaging",
+            "Graphics",
+            "Hardware Support",
+            "MariaDB (MySQL) Database",
+            "Neuron Modelling Simulators",
+            "PostgreSQL Database",
+            "System Tools",
+            "Windows File Server"
+        ]
+    },
+    {
+        "name": "Network Server Functionality",
+        "description": "This feature encompasses a broad range of server capabilities required for network-based services. It provides support for DNS name resolution, legacy network protocols, email communication, and other essential network-based server functionalities such as dynamic host configuration. These components enable the system to act as a robust server in diverse networking environments.",
+        "children": [
+            "DNS Name Server",
+            "Legacy Network Server",
+            "Mail Server",
+            "Network Servers"
+        ]
+    },
+    {
+        "name": "System Configuration and Package Conflict Management",
+        "description": "This parent feature encompasses functionalities related to system customization, visual enhancement, and the resolution of package conflicts for various Linux system setups and installation variants. It includes support for advanced desktop effects through Compiz and Emerald, as well as a tailored approach to handling package conflicts in different installation scenarios such as Client, ComputeNode, Server, Workstation, and specific repositories like AppStream and BaseOS. This feature ensures a streamlined experience while managing complex package dependencies and conflicts across multiple environments.",
+        "children": [
+            "Compiz",
+            "Conflicts (Client)",
+            "Conflicts (ComputeNode)",
+            "Conflicts (Server)",
+            "Conflicts (Workstation)",
+            "Conflicts AppStream",
+            "Conflicts BaseOS"
+        ]
+    },
+    {
+        "name": "Desktop Environment Applications and Entertainment",
+        "description": "A comprehensive collection of desktop environment-specific applications and tools, along with games and entertainment options, catering to various user needs and preferences. This feature encompasses applications for lightweight and full-fledged desktop environments, personal information management, educational tools, and recreational activities.",
+        "children": [
+            "Applications for the LXDE Desktop",
+            "Applications for the LXQt Desktop",
+            "Applications for the Xfce Desktop",
+            "Games and Entertainment",
+            "KDE",
+            "KDE Applications",
+            "KDE Educational applications",
+            "KDE PIM"
+        ]
+    },
+    {
+        "name": "Linux Installation Profiles",
+        "description": "A collection of feature profiles tailored to meet various user and system requirements during the installation of a Linux-based operating system. These profiles provide flexibility and scalability, ranging from minimal setups to specialized environments for robotics development. Each profile defines a specific set of packages and configurations to create a streamlined and optimized Linux installation experience.",
+        "children": [
+            "Base",
+            "Core",
+            "Robotics",
+            "Standard"
+        ]
+    },
+    {
+        "name": "Graphical User Interface Environments and Window Management",
+        "description": "This parent feature encompasses a comprehensive set of tools, window managers, and compatibility layers to enable a diverse range of graphical user interface (GUI) environments that cater to different user preferences and system configurations. It includes basic X Window System support, window managers compatible with both legacy and modern environments, and additional features for tiling, compositing, and desktop integration. This feature addresses the needs of both minimalistic window management and advanced customizable setups, supporting modern protocols like Wayland while still offering compatibility with X.org and legacy systems.",
+        "children": [
+            "Basic Desktop",
+            "Legacy X Window System Compatibility",
+            "Sway Window Manager",
+            "Sway Window Manager (supplemental packages)",
+            "Window Managers",
+            "X Window System",
+            "XMonad",
+            "XMonad for MATE",
+            "base-x",
+            "i3 window manager",
+            "i3 window manager (supplemental packages)"
+        ]
+    }
+]

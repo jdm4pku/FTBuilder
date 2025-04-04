@@ -1,0 +1,286 @@
+[
+    {
+        "name": "Other ",
+        "parent": "3D"
+    },
+    {
+        "name": "Race ",
+        "parent": "3D"
+    },
+    {
+        "name": "Shoot ",
+        "parent": "3D"
+    },
+    {
+        "name": "Simulation ",
+        "parent": "3D"
+    },
+    {
+        "name": "Arcade ",
+        "parent": "Action"
+    },
+    {
+        "name": "Arcade",
+        "parent": "Action"
+    },
+    {
+        "name": "Breakout ",
+        "parent": "Action"
+    },
+    {
+        "name": "Other ",
+        "parent": "Action"
+    },
+    {
+        "name": "Race ",
+        "parent": "Action"
+    },
+    {
+        "name": "Shoot ",
+        "parent": "Action"
+    },
+    {
+        "name": "Logic ",
+        "parent": "Arcade"
+    },
+    {
+        "name": "LogicGame ",
+        "parent": "Arcade"
+    },
+    {
+        "name": "Card ",
+        "parent": "Board"
+    },
+    {
+        "name": "Chess ",
+        "parent": "Board"
+    },
+    {
+        "name": "Other ",
+        "parent": "Board"
+    },
+    {
+        "name": "Puzzle ",
+        "parent": "Board"
+    },
+    {
+        "name": "Other ",
+        "parent": "Strategy"
+    },
+    {
+        "name": "Real Time ",
+        "parent": "Strategy"
+    },
+    {
+        "name": "Turn Based ",
+        "parent": "Strategy"
+    },
+    {
+        "name": "Maui ",
+        "parent": "Shell"
+    },
+    {
+        "name": "NFS ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Graph ",
+        "parent": "Visualization"
+    },
+    {
+        "name": "Other ",
+        "parent": "Visualization"
+    },
+    {
+        "name": "Raytracers ",
+        "parent": "Visualization"
+    },
+    {
+        "name": "Grabbers ",
+        "parent": "CD"
+    },
+    {
+        "name": "Record ",
+        "parent": "CD"
+    },
+    {
+        "name": "Editors and Convertors ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Midi ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Mixers ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Players ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Visualization ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Editors and Convertors ",
+        "parent": "Video"
+    },
+    {
+        "name": "Players ",
+        "parent": "Video"
+    },
+    {
+        "name": "Clients ",
+        "parent": "Boot"
+    },
+    {
+        "name": "Servers ",
+        "parent": "Boot"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Boot"
+    },
+    {
+        "name": "Servers ",
+        "parent": "DNS"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "DNS"
+    },
+    {
+        "name": "Clients ",
+        "parent": "Email"
+    },
+    {
+        "name": "Mailinglists ",
+        "parent": "Email"
+    },
+    {
+        "name": "Servers ",
+        "parent": "Email"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Email"
+    },
+    {
+        "name": "Clients ",
+        "parent": "Ftp"
+    },
+    {
+        "name": "Servers ",
+        "parent": "Ftp"
+    },
+    {
+        "name": "Clients ",
+        "parent": "LDAP"
+    },
+    {
+        "name": "Servers ",
+        "parent": "LDAP"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "LDAP"
+    },
+    {
+        "name": "Clients ",
+        "parent": "News"
+    },
+    {
+        "name": "Servers ",
+        "parent": "News"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "News"
+    },
+    {
+        "name": "Clients ",
+        "parent": "Radius"
+    },
+    {
+        "name": "Servers ",
+        "parent": "Radius"
+    },
+    {
+        "name": "Clients ",
+        "parent": "Talk"
+    },
+    {
+        "name": "Servers ",
+        "parent": "Talk"
+    },
+    {
+        "name": "Browsers ",
+        "parent": "Web"
+    },
+    {
+        "name": "Frontends ",
+        "parent": "Web"
+    },
+    {
+        "name": "Proxy ",
+        "parent": "Web"
+    },
+    {
+        "name": "Servers ",
+        "parent": "Web"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Web"
+    },
+    {
+        "name": "Tools ",
+        "parent": "HTML"
+    },
+    {
+        "name": "Base ",
+        "parent": "TeX"
+    },
+    {
+        "name": "Fonts ",
+        "parent": "TeX"
+    },
+    {
+        "name": "Frontends ",
+        "parent": "TeX"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "TeX"
+    },
+    {
+        "name": "Servers ",
+        "parent": "H323"
+    },
+    {
+        "name": "Clients ",
+        "parent": "SIP"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "SIP"
+    },
+    {
+        "name": "Web",
+        "parent": "Networking"
+    },
+    {
+        "name": "XF86_4 ",
+        "parent": "Servers"
+    },
+    {
+        "name": "NWG ",
+        "parent": "Utilities"
+    }
+]

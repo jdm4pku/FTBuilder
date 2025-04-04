@@ -1,0 +1,15 @@
+Backup Client
+Debugging Tools
+File and Storage Server
+Fonts
+FTP Server
+Hardware Monitoring Utilities
+Internet Browser
+KDE Applications
+E-mail Server
+Network File System Client
+PHP Support
+Remote Desktop Clients
+Web Server
+Perl Support
+Scientific Support

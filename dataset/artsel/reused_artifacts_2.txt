@@ -1,0 +1,15 @@
+Backup
+Development/Tools/Debuggers
+Applications/Storage
+Fonts
+FTP
+Monitoring
+Internet/Web browser
+kde/applications
+Productivity/Networking/Email/Servers
+Networking/Filesystem
+Development/PHP
+Networking/Remote access
+Productivity/Networking/Web/Servers
+Development/Perl
+Applications/Scientific

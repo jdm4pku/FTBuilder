@@ -1,0 +1,386 @@
+[
+    {
+        "description": "Aapplications"
+    },
+    {
+        "description": "Accessibility "
+    },
+    {
+        "description": "Amusements"
+    },
+    {
+        "description": "Application"
+    },
+    {
+        "description": "Applications "
+    },
+    {
+        "description": "Applications"
+    },
+    {
+        "description": "Archiving"
+    },
+    {
+        "description": "Audio "
+    },
+    {
+        "description": "Books"
+    },
+    {
+        "description": "Bootstrapping "
+    },
+    {
+        "description": "COSMIC "
+    },
+    {
+        "description": "Clustering"
+    },
+    {
+        "description": "Communications "
+    },
+    {
+        "description": "Communications"
+    },
+    {
+        "description": "Compression "
+    },
+    {
+        "description": "Converted"
+    },
+    {
+        "description": "Converter "
+    },
+    {
+        "description": "Cryptography "
+    },
+    {
+        "description": "Database "
+    },
+    {
+        "description": "Databases "
+    },
+    {
+        "description": "Debugging "
+    },
+    {
+        "description": "Desktop"
+    },
+    {
+        "description": "Development "
+    },
+    {
+        "description": "Development Documentation "
+    },
+    {
+        "description": "Development"
+    },
+    {
+        "description": "Develpoment"
+    },
+    {
+        "description": "Documentation "
+    },
+    {
+        "description": "Documentation"
+    },
+    {
+        "description": "Editors "
+    },
+    {
+        "description": "Editors"
+    },
+    {
+        "description": "Education "
+    },
+    {
+        "description": "Embedded "
+    },
+    {
+        "description": "Emulator"
+    },
+    {
+        "description": "Emulators "
+    },
+    {
+        "description": "Emulators"
+    },
+    {
+        "description": "FIXME "
+    },
+    {
+        "description": "FTP "
+    },
+    {
+        "description": "File tools "
+    },
+    {
+        "description": "Fonts "
+    },
+    {
+        "description": "Games "
+    },
+    {
+        "description": "Games"
+    },
+    {
+        "description": "Geography "
+    },
+    {
+        "description": "Graphical Desktop"
+    },
+    {
+        "description": "Graphical desktop "
+    },
+    {
+        "description": "Graphical desktop"
+    },
+    {
+        "description": "Graphics "
+    },
+    {
+        "description": "Graphics"
+    },
+    {
+        "description": "Hardware "
+    },
+    {
+        "description": "Hardware"
+    },
+    {
+        "description": "Hyprland "
+    },
+    {
+        "description": "Hyprland"
+    },
+    {
+        "description": "HyprlandWayland "
+    },
+    {
+        "description": "Icons"
+    },
+    {
+        "description": "Internationalization "
+    },
+    {
+        "description": "Internet "
+    },
+    {
+        "description": "Internet"
+    },
+    {
+        "description": "Language "
+    },
+    {
+        "description": "Libraries "
+    },
+    {
+        "description": "Library "
+    },
+    {
+        "description": "Mail "
+    },
+    {
+        "description": "Metapackages "
+    },
+    {
+        "description": "Monitoring "
+    },
+    {
+        "description": "Multimedia"
+    },
+    {
+        "description": "Music "
+    },
+    {
+        "description": "Music"
+    },
+    {
+        "description": "NWG"
+    },
+    {
+        "description": "Network "
+    },
+    {
+        "description": "Networking"
+    },
+    {
+        "description": "Office "
+    },
+    {
+        "description": "Office"
+    },
+    {
+        "description": "Other "
+    },
+    {
+        "description": "Productivity"
+    },
+    {
+        "description": "Publishing "
+    },
+    {
+        "description": "Reader "
+    },
+    {
+        "description": "SLES "
+    },
+    {
+        "description": "Sciences"
+    },
+    {
+        "description": "Security "
+    },
+    {
+        "description": "Servers "
+    },
+    {
+        "description": "Servers"
+    },
+    {
+        "description": "Session"
+    },
+    {
+        "description": "Shells "
+    },
+    {
+        "description": "Sound "
+    },
+    {
+        "description": "Sound"
+    },
+    {
+        "description": "Store"
+    },
+    {
+        "description": "System "
+    },
+    {
+        "description": "System Environment"
+    },
+    {
+        "description": "System Tools "
+    },
+    {
+        "description": "System Utilities "
+    },
+    {
+        "description": "System.Libraries "
+    },
+    {
+        "description": "System"
+    },
+    {
+        "description": "Systems"
+    },
+    {
+        "description": "Terminal "
+    },
+    {
+        "description": "Terminal"
+    },
+    {
+        "description": "Terminals "
+    },
+    {
+        "description": "Text "
+    },
+    {
+        "description": "Text tools "
+    },
+    {
+        "description": "Text"
+    },
+    {
+        "description": "Toold"
+    },
+    {
+        "description": "Tools "
+    },
+    {
+        "description": "Tools"
+    },
+    {
+        "description": "Toys "
+    },
+    {
+        "description": "Unspecified "
+    },
+    {
+        "description": "User Interface"
+    },
+    {
+        "description": "User interface"
+    },
+    {
+        "description": "Utilities "
+    },
+    {
+        "description": "Utilities"
+    },
+    {
+        "description": "Utility "
+    },
+    {
+        "description": "Utility"
+    },
+    {
+        "description": "Video "
+    },
+    {
+        "description": "Video"
+    },
+    {
+        "description": "Virtualization"
+    },
+    {
+        "description": "WM"
+    },
+    {
+        "description": "Wallpapers"
+    },
+    {
+        "description": "Wayfire "
+    },
+    {
+        "description": "Web "
+    },
+    {
+        "description": "X11"
+    },
+    {
+        "description": "__GROUP_SYS_BASE__ "
+    },
+    {
+        "description": "core "
+    },
+    {
+        "description": "default "
+    },
+    {
+        "description": "devel "
+    },
+    {
+        "description": "geen "
+    },
+    {
+        "description": "internet "
+    },
+    {
+        "description": "kde"
+    },
+    {
+        "description": "system environment"
+    },
+    {
+        "description": "system"
+    },
+    {
+        "description": "unknown "
+    },
+    {
+        "description": "webapps "
+    },
+    {
+        "description": "ystem Environment"
+    }
+]

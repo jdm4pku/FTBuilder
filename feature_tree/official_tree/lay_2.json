@@ -1,0 +1,786 @@
+[
+    {
+        "name": "3D",
+        "parent": "Games"
+    },
+    {
+        "name": "Action",
+        "parent": "Games"
+    },
+    {
+        "name": "Arcade",
+        "parent": "Games"
+    },
+    {
+        "name": "Board",
+        "parent": "Games"
+    },
+    {
+        "name": "Logic ",
+        "parent": "Games"
+    },
+    {
+        "name": "Other ",
+        "parent": "Games"
+    },
+    {
+        "name": "RPG ",
+        "parent": "Games"
+    },
+    {
+        "name": "Strategy",
+        "parent": "Games"
+    },
+    {
+        "name": "StrategyGame ",
+        "parent": "Games"
+    },
+    {
+        "name": "Language ",
+        "parent": "Teaching"
+    },
+    {
+        "name": "Other ",
+        "parent": "Teaching"
+    },
+    {
+        "name": "Background ",
+        "parent": "Toys"
+    },
+    {
+        "name": "Clocks ",
+        "parent": "Toys"
+    },
+    {
+        "name": "Graphics ",
+        "parent": "Toys"
+    },
+    {
+        "name": "Other ",
+        "parent": "Toys"
+    },
+    {
+        "name": "Screensavers ",
+        "parent": "Toys"
+    },
+    {
+        "name": "Maui ",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Shell",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Static ",
+        "parent": "C and C++"
+    },
+    {
+        "name": "Static ",
+        "parent": "C"
+    },
+    {
+        "name": "C and C++ ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Fortran ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Go ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Golang ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Java ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Lua ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Misc ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Mono ",
+        "parent": "Languages"
+    },
+    {
+        "name": "NodeJS ",
+        "parent": "Languages"
+    },
+    {
+        "name": "OCaml ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Other ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Perl ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Python ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Ruby ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Rust ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Scheme ",
+        "parent": "Languages"
+    },
+    {
+        "name": "Tcl ",
+        "parent": "Languages"
+    },
+    {
+        "name": "C ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "C and C++ ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Cross ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "GNOME ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Go ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Haskell ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Java ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "KDE ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Mono ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Other ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "PHP ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Parallel ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Perl ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Python ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Rust ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Tcl ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "X11 ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Libraries ",
+        "parent": "LibrariesDevelopment"
+    },
+    {
+        "name": "C and C++ ",
+        "parent": "Library"
+    },
+    {
+        "name": "Networking",
+        "parent": "Productivity"
+    },
+    {
+        "name": "Building ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Debuggers ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Doc Generators ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Editor ",
+        "parent": "Tools"
+    },
+    {
+        "name": "GUI Builders ",
+        "parent": "Tools"
+    },
+    {
+        "name": "IDE ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Maui ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Navigators ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Other ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Version Control ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Shoot ",
+        "parent": "3D"
+    },
+    {
+        "name": "Plasma5 ",
+        "parent": "KDE"
+    },
+    {
+        "name": "Servers ",
+        "parent": "WWW"
+    },
+    {
+        "name": "Editors and Convertors ",
+        "parent": "Sound"
+    },
+    {
+        "name": "Backup ",
+        "parent": "Archiving"
+    },
+    {
+        "name": "Compression ",
+        "parent": "Archiving"
+    },
+    {
+        "name": "Computing ",
+        "parent": "Clustering"
+    },
+    {
+        "name": "HA ",
+        "parent": "Clustering"
+    },
+    {
+        "name": "Clients ",
+        "parent": "Databases"
+    },
+    {
+        "name": "Servers ",
+        "parent": "Databases"
+    },
+    {
+        "name": "Tools ",
+        "parent": "Databases"
+    },
+    {
+        "name": "Emacs ",
+        "parent": "Editors"
+    },
+    {
+        "name": "Other ",
+        "parent": "Editors"
+    },
+    {
+        "name": "3D Editors ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Bitmap Editors ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "CAD ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Convertors ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Libraries ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Other ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Vector Editors ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Viewers ",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Visualization",
+        "parent": "Graphics"
+    },
+    {
+        "name": "Other ",
+        "parent": "Hamradio"
+    },
+    {
+        "name": "CD",
+        "parent": "Multimedia"
+    },
+    {
+        "name": "Other ",
+        "parent": "Multimedia"
+    },
+    {
+        "name": "Sound",
+        "parent": "Multimedia"
+    },
+    {
+        "name": "Video",
+        "parent": "Multimedia"
+    },
+    {
+        "name": "Boot",
+        "parent": "Networking"
+    },
+    {
+        "name": "DNS",
+        "parent": "Networking"
+    },
+    {
+        "name": "Diagnostic ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Email",
+        "parent": "Networking"
+    },
+    {
+        "name": "File-Sharing ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Ftp",
+        "parent": "Networking"
+    },
+    {
+        "name": "IRC ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Instant Messenger ",
+        "parent": "Networking"
+    },
+    {
+        "name": "LDAP",
+        "parent": "Networking"
+    },
+    {
+        "name": "NFS ",
+        "parent": "Networking"
+    },
+    {
+        "name": "NIS ",
+        "parent": "Networking"
+    },
+    {
+        "name": "News",
+        "parent": "Networking"
+    },
+    {
+        "name": "Other ",
+        "parent": "Networking"
+    },
+    {
+        "name": "PPP ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Radius",
+        "parent": "Networking"
+    },
+    {
+        "name": "Routing ",
+        "parent": "Networking"
+    },
+    {
+        "name": "SSH ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Samba ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Security ",
+        "parent": "Networking"
+    },
+    {
+        "name": "System ",
+        "parent": "Networking"
+    },
+    {
+        "name": "Talk",
+        "parent": "Networking"
+    },
+    {
+        "name": "Web",
+        "parent": "Networking"
+    },
+    {
+        "name": "Dictionary ",
+        "parent": "Office"
+    },
+    {
+        "name": "Finance ",
+        "parent": "Office"
+    },
+    {
+        "name": "Management ",
+        "parent": "Office"
+    },
+    {
+        "name": "Organizers ",
+        "parent": "Office"
+    },
+    {
+        "name": "Other ",
+        "parent": "Office"
+    },
+    {
+        "name": "Spreadsheets ",
+        "parent": "Office"
+    },
+    {
+        "name": "Suite ",
+        "parent": "Office"
+    },
+    {
+        "name": "Word Processor ",
+        "parent": "Office"
+    },
+    {
+        "name": "DocBook ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "HTML",
+        "parent": "Publishing"
+    },
+    {
+        "name": "Other ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "PDF ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "PS ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "Presentation ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "SGML ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "TeX ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "TeX",
+        "parent": "Publishing"
+    },
+    {
+        "name": "Texinfo ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "Troff ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "Word ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "XML ",
+        "parent": "Publishing"
+    },
+    {
+        "name": "Astronomy ",
+        "parent": "Scientific"
+    },
+    {
+        "name": "Chemistry ",
+        "parent": "Scientific"
+    },
+    {
+        "name": "Electronics ",
+        "parent": "Scientific"
+    },
+    {
+        "name": "Math ",
+        "parent": "Scientific"
+    },
+    {
+        "name": "Other ",
+        "parent": "Scientific"
+    },
+    {
+        "name": "Physics ",
+        "parent": "Scientific"
+    },
+    {
+        "name": "Clients ",
+        "parent": "Telephony"
+    },
+    {
+        "name": "H323",
+        "parent": "Telephony"
+    },
+    {
+        "name": "SIP",
+        "parent": "Telephony"
+    },
+    {
+        "name": "Servers ",
+        "parent": "Telephony"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Telephony"
+    },
+    {
+        "name": "Convertors ",
+        "parent": "Text"
+    },
+    {
+        "name": "Editors ",
+        "parent": "Text"
+    },
+    {
+        "name": "Spell ",
+        "parent": "Text"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "Text"
+    },
+    {
+        "name": "Networking",
+        "parent": "Video"
+    },
+    {
+        "name": "Boot and Init ",
+        "parent": "Configuration"
+    },
+    {
+        "name": "Hardware ",
+        "parent": "Configuration"
+    },
+    {
+        "name": "Networking ",
+        "parent": "Configuration"
+    },
+    {
+        "name": "Other ",
+        "parent": "Configuration"
+    },
+    {
+        "name": "Packaging ",
+        "parent": "Configuration"
+    },
+    {
+        "name": "Printing ",
+        "parent": "Configuration"
+    },
+    {
+        "name": "ROCm ",
+        "parent": "Configuration"
+    },
+    {
+        "name": "Other ",
+        "parent": "Emulators"
+    },
+    {
+        "name": "PC ",
+        "parent": "Emulators"
+    },
+    {
+        "name": "Open type ",
+        "parent": "Fonts"
+    },
+    {
+        "name": "True type ",
+        "parent": "Fonts"
+    },
+    {
+        "name": "Type1 ",
+        "parent": "Fonts"
+    },
+    {
+        "name": "X11 bitmap ",
+        "parent": "Fonts"
+    },
+    {
+        "name": "Deepin ",
+        "parent": "GUI"
+    },
+    {
+        "name": "GNOME ",
+        "parent": "GUI"
+    },
+    {
+        "name": "KDE ",
+        "parent": "GUI"
+    },
+    {
+        "name": "LXDE ",
+        "parent": "GUI"
+    },
+    {
+        "name": "LXQt ",
+        "parent": "GUI"
+    },
+    {
+        "name": "Other ",
+        "parent": "GUI"
+    },
+    {
+        "name": "Wayland ",
+        "parent": "GUI"
+    },
+    {
+        "name": "XFCE ",
+        "parent": "GUI"
+    },
+    {
+        "name": "Chinese ",
+        "parent": "I18n"
+    },
+    {
+        "name": "Japanese ",
+        "parent": "I18n"
+    },
+    {
+        "name": "Korean ",
+        "parent": "I18n"
+    },
+    {
+        "name": "Cinnamon ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Wayfire ",
+        "parent": "Libraries"
+    },
+    {
+        "name": "Wayfire ",
+        "parent": "Tools"
+    },
+    {
+        "name": "Displaymanagers ",
+        "parent": "X11"
+    },
+    {
+        "name": "Fonts ",
+        "parent": "X11"
+    },
+    {
+        "name": "Icons ",
+        "parent": "X11"
+    },
+    {
+        "name": "Other ",
+        "parent": "X11"
+    },
+    {
+        "name": "Servers ",
+        "parent": "X11"
+    },
+    {
+        "name": "Servers",
+        "parent": "X11"
+    },
+    {
+        "name": "Terminals ",
+        "parent": "X11"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "X11"
+    },
+    {
+        "name": "Utilities",
+        "parent": "X11"
+    },
+    {
+        "name": "Wayland ",
+        "parent": "X11"
+    },
+    {
+        "name": "games ",
+        "parent": "libraries"
+    },
+    {
+        "name": "Overlay ",
+        "parent": "Monitiring"
+    },
+    {
+        "name": "Scientific ",
+        "parent": "Applications"
+    },
+    {
+        "name": "Databases ",
+        "parent": "KDE"
+    },
+    {
+        "name": "Network ",
+        "parent": "KDE"
+    },
+    {
+        "name": "Utilities ",
+        "parent": "KDE"
+    }
+]

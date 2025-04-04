@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Comprehensive Linux Desktop and Development Ecosystem",
+        "description": "This parent feature encompasses a holistic and integrated collection of tools, environments, and utilities tailored for software development, graphical design, desktop environments, content creation, and educational activities in Linux systems. It integrates support for various graphical desktop environments and window managers, including GNOME, KDE, Xfce, LXQt, and others, ensuring a seamless user experience across a diverse range of systems. The feature provides a complete suite of software development tools, creative and multimedia applications, and professional design packages. Additionally, it includes compatibility with legacy systems such as the X Window System and font packages for maintaining support for older workflows and assets. Aimed at professionals and learners alike, this feature also supports advanced content creation, technical documentation, educational activities, multilingual text rendering, and input methods, covering the comprehensive needs of developers, designers, educators, and general users. Whether you're crafting software, engaging in scientific research, designing graphics, or producing audio, this feature offers a cohesive ecosystem for maximizing productivity and creativity on Linux platforms.",
+        "children": [
+            "Software Development and Design Suite",
+            "Desktop Environment Applications and Support",
+            "Graphical Desktop Environments and Window Managers",
+            "Development and Creative Tools Suite",
+            "Content Creation and Educational Tools"
+        ]
+    },
+    {
+        "name": "Integrated Enterprise and System Management Framework",
+        "description": "A comprehensive parent feature that unifies diverse functionalities required for enterprise IT infrastructure, application development, system utilities, virtualization, cloud management, service hosting, and versatile system support. This framework consolidates enterprise infrastructure services to ensure seamless operations through robust identity management, high availability configurations, load balancing, and security mechanisms. It incorporates development and compatibility platforms to provide tools, libraries, and runtimes for open-source, legacy, and modern applications. Additionally, it includes system tools and utilities for performance monitoring, network configuration, and debugging, catering to administrators and engineers. The framework also covers a cloud and virtualization ecosystem for managing containerized applications, hypervisors, and virtual/cloud infrastructures. Comprehensive system and application support provide modular solutions for system administration, network management, database services, and hardware compatibility, ensuring adaptability to diverse operational needs. Lastly, system service and application hosting enable critical functionalities like network services, storage, printing, and web/application hosting. This integrated approach equips enterprises and users with a scalable, flexible, and resilient foundation for managing complex environments and evolving technological requirements.",
+        "children": [
+            "Enterprise Infrastructure Services",
+            "Development and Compatibility Platforms",
+            "System Tools and Utilities",
+            "Cloud and Virtualization Ecosystem",
+            "Comprehensive System and Application Support",
+            "System Service and Application Hosting"
+        ]
+    },
+    {
+        "name": "Unified Linux System Foundation and Workflow Management",
+        "description": "This feature serves as the overarching framework that integrates core functionalities, installation workflows, and conflict management across various Linux system products and environments. It combines essential elements from Linux System Product Core and Conflicts Management with Linux Installation and Critical Path Features, ensuring compatibility, streamlined operations, and consistent platform behavior. This parent feature encompasses foundational packages and repositories, such as BaseOS and AppStream, alongside graphical and installation enhancements to support diverse product types, including Atomic Host, Linux Client, ComputeNode, Server, and Workstation. It supports ostree functionality, handles package conflicts, and provides tailored setups for different use cases. Additionally, it incorporates the base installation, minimal setups, Critical Path groupings, and utilities necessary for desktop environments (GNOME, KDE, Xfce, etc.), server configurations, special-purpose setups (like robotics development), and application building. Unified Linux System Foundation and Workflow Management ensures flexibility, optimized deployment, and consistency across various Linux distribution spins and environments.",
+        "children": [
+            "Linux System Product Core and Conflicts Management",
+            "Linux Installation and Critical Path Features"
+        ]
+    }
+]
