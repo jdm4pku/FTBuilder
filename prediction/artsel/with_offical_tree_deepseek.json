@@ -1,0 +1,77 @@
+[
+    {
+        "requirement": "I need to regularly back up my files and system data to a remote backup server to prevent data loss.",
+        "artifact": "Backup",
+        "predicted_artifact": "File "
+    },
+    {
+        "requirement": "I want to identify and fix issues in malfunctioning applications and analyze performance problems.",
+        "artifact": "Development/Tools/Debuggers",
+        "predicted_artifact": "Race "
+    },
+    {
+        "requirement": "I need the system to provide CIFS-based file sharing so other devices on the network can access shared files.",
+        "artifact": "Applications/Storage",
+        "predicted_artifact": "Accessibility "
+    },
+    {
+        "requirement": "I want the system to correctly render text in multiple languages and scripts.",
+        "artifact": "Fonts",
+        "predicted_artifact": "Breakout "
+    },
+    {
+        "requirement": "I need the system to function as an FTP server for uploading and downloading files over the network.",
+        "artifact": "FTP",
+        "predicted_artifact": "File "
+    },
+    {
+        "requirement": "I want to monitor server hardware in real time, including temperature, voltage, and fan speeds.",
+        "artifact": "Monitoring",
+        "predicted_artifact": "Breakout "
+    },
+    {
+        "requirement": "I need a graphical web browser to access and navigate the internet from the system.",
+        "artifact": "Internet/Web browser",
+        "predicted_artifact": "Internet "
+    },
+    {
+        "requirement": "I want access to commonly used KDE desktop applications to enhance my user experience.",
+        "artifact": "kde/applications",
+        "predicted_artifact": "File "
+    },
+    {
+        "requirement": "I need the system to operate as an e-mail server supporting SMTP for sending and IMAP for receiving mail.",
+        "artifact": "Productivity/Networking/Email/Servers",
+        "predicted_artifact": "Internet "
+    },
+    {
+        "requirement": "I want the system to mount and access shared storage devices over the network.",
+        "artifact": "Networking/Filesystem",
+        "predicted_artifact": "File "
+    },
+    {
+        "requirement": "I want to run web applications developed in PHP on the system.",
+        "artifact": "Development/PHP",
+        "predicted_artifact": "Logic "
+    },
+    {
+        "requirement": "I need to access other desktops remotely or allow others to connect to my system remotely.",
+        "artifact": "Networking/Remote access",
+        "predicted_artifact": "Internet "
+    },
+    {
+        "requirement": "I want to host websites or web services by running a web server on the system.",
+        "artifact": "Productivity/Networking/Web/Servers",
+        "predicted_artifact": "File "
+    },
+    {
+        "requirement": "I want to run Perl scripts and access common Perl libraries and functionality.",
+        "artifact": "Development/Perl",
+        "predicted_artifact": "File "
+    },
+    {
+        "requirement": "I need tools to perform scientific computing and mathematical modeling on the system.",
+        "artifact": "Applications/Scientific",
+        "predicted_artifact": "File "
+    }
+]

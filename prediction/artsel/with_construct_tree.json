@@ -37,7 +37,7 @@
     {
         "requirement": "I want access to commonly used KDE desktop applications to enhance my user experience.",
         "artifact": "KDE Applications",
-        "predicted_artifact": "KDE Multimedia Support"
+        "predicted_artifact": "KDE Applications"
     },
     {
         "requirement": "I need the system to operate as an e-mail server supporting SMTP for sending and IMAP for receiving mail.",
@@ -47,7 +47,7 @@
     {
         "requirement": "I want the system to mount and access shared storage devices over the network.",
         "artifact": "Network File System Client",
-        "predicted_artifact": "File and Storage Server"
+        "predicted_artifact": "High Availability"
     },
     {
         "requirement": "I want to run web applications developed in PHP on the system.",

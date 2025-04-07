@@ -1,386 +1,386 @@
 [
     {
-        "description": "Aapplications"
+        "name": "Aapplications"
     },
     {
-        "description": "Accessibility "
+        "name": "Accessibility "
     },
     {
-        "description": "Amusements"
+        "name": "Amusements"
     },
     {
-        "description": "Application"
+        "name": "Application"
     },
     {
-        "description": "Applications "
+        "name": "Applications "
     },
     {
-        "description": "Applications"
+        "name": "Applications"
     },
     {
-        "description": "Archiving"
+        "name": "Archiving"
     },
     {
-        "description": "Audio "
+        "name": "Audio "
     },
     {
-        "description": "Books"
+        "name": "Books"
     },
     {
-        "description": "Bootstrapping "
+        "name": "Bootstrapping "
     },
     {
-        "description": "COSMIC "
+        "name": "COSMIC "
     },
     {
-        "description": "Clustering"
+        "name": "Clustering"
     },
     {
-        "description": "Communications "
+        "name": "Communications "
     },
     {
-        "description": "Communications"
+        "name": "Communications"
     },
     {
-        "description": "Compression "
+        "name": "Compression "
     },
     {
-        "description": "Converted"
+        "name": "Converted"
     },
     {
-        "description": "Converter "
+        "name": "Converter "
     },
     {
-        "description": "Cryptography "
+        "name": "Cryptography "
     },
     {
-        "description": "Database "
+        "name": "Database "
     },
     {
-        "description": "Databases "
+        "name": "Databases "
     },
     {
-        "description": "Debugging "
+        "name": "Debugging "
     },
     {
-        "description": "Desktop"
+        "name": "Desktop"
     },
     {
-        "description": "Development "
+        "name": "Development "
     },
     {
-        "description": "Development Documentation "
+        "name": "Development Documentation "
     },
     {
-        "description": "Development"
+        "name": "Development"
     },
     {
-        "description": "Develpoment"
+        "name": "Develpoment"
     },
     {
-        "description": "Documentation "
+        "name": "Documentation "
     },
     {
-        "description": "Documentation"
+        "name": "Documentation"
     },
     {
-        "description": "Editors "
+        "name": "Editors "
     },
     {
-        "description": "Editors"
+        "name": "Editors"
     },
     {
-        "description": "Education "
+        "name": "Education "
     },
     {
-        "description": "Embedded "
+        "name": "Embedded "
     },
     {
-        "description": "Emulator"
+        "name": "Emulator"
     },
     {
-        "description": "Emulators "
+        "name": "Emulators "
     },
     {
-        "description": "Emulators"
+        "name": "Emulators"
     },
     {
-        "description": "FIXME "
+        "name": "FIXME "
     },
     {
-        "description": "FTP "
+        "name": "FTP "
     },
     {
-        "description": "File tools "
+        "name": "File tools "
     },
     {
-        "description": "Fonts "
+        "name": "Fonts "
     },
     {
-        "description": "Games "
+        "name": "Games "
     },
     {
-        "description": "Games"
+        "name": "Games"
     },
     {
-        "description": "Geography "
+        "name": "Geography "
     },
     {
-        "description": "Graphical Desktop"
+        "name": "Graphical Desktop"
     },
     {
-        "description": "Graphical desktop "
+        "name": "Graphical desktop "
     },
     {
-        "description": "Graphical desktop"
+        "name": "Graphical desktop"
     },
     {
-        "description": "Graphics "
+        "name": "Graphics "
     },
     {
-        "description": "Graphics"
+        "name": "Graphics"
     },
     {
-        "description": "Hardware "
+        "name": "Hardware "
     },
     {
-        "description": "Hardware"
+        "name": "Hardware"
     },
     {
-        "description": "Hyprland "
+        "name": "Hyprland "
     },
     {
-        "description": "Hyprland"
+        "name": "Hyprland"
     },
     {
-        "description": "HyprlandWayland "
+        "name": "HyprlandWayland "
     },
     {
-        "description": "Icons"
+        "name": "Icons"
     },
     {
-        "description": "Internationalization "
+        "name": "Internationalization "
     },
     {
-        "description": "Internet "
+        "name": "Internet "
     },
     {
-        "description": "Internet"
+        "name": "Internet"
     },
     {
-        "description": "Language "
+        "name": "Language "
     },
     {
-        "description": "Libraries "
+        "name": "Libraries "
     },
     {
-        "description": "Library "
+        "name": "Library "
     },
     {
-        "description": "Mail "
+        "name": "Mail "
     },
     {
-        "description": "Metapackages "
+        "name": "Metapackages "
     },
     {
-        "description": "Monitoring "
+        "name": "Monitoring "
     },
     {
-        "description": "Multimedia"
+        "name": "Multimedia"
     },
     {
-        "description": "Music "
+        "name": "Music "
     },
     {
-        "description": "Music"
+        "name": "Music"
     },
     {
-        "description": "NWG"
+        "name": "NWG"
     },
     {
-        "description": "Network "
+        "name": "Network "
     },
     {
-        "description": "Networking"
+        "name": "Networking"
     },
     {
-        "description": "Office "
+        "name": "Office "
     },
     {
-        "description": "Office"
+        "name": "Office"
     },
     {
-        "description": "Other "
+        "name": "Other "
     },
     {
-        "description": "Productivity"
+        "name": "Productivity"
     },
     {
-        "description": "Publishing "
+        "name": "Publishing "
     },
     {
-        "description": "Reader "
+        "name": "Reader "
     },
     {
-        "description": "SLES "
+        "name": "SLES "
     },
     {
-        "description": "Sciences"
+        "name": "Sciences"
     },
     {
-        "description": "Security "
+        "name": "Security "
     },
     {
-        "description": "Servers "
+        "name": "Servers "
     },
     {
-        "description": "Servers"
+        "name": "Servers"
     },
     {
-        "description": "Session"
+        "name": "Session"
     },
     {
-        "description": "Shells "
+        "name": "Shells "
     },
     {
-        "description": "Sound "
+        "name": "Sound "
     },
     {
-        "description": "Sound"
+        "name": "Sound"
     },
     {
-        "description": "Store"
+        "name": "Store"
     },
     {
-        "description": "System "
+        "name": "System "
     },
     {
-        "description": "System Environment"
+        "name": "System Environment"
     },
     {
-        "description": "System Tools "
+        "name": "System Tools "
     },
     {
-        "description": "System Utilities "
+        "name": "System Utilities "
     },
     {
-        "description": "System.Libraries "
+        "name": "System.Libraries "
     },
     {
-        "description": "System"
+        "name": "System"
     },
     {
-        "description": "Systems"
+        "name": "Systems"
     },
     {
-        "description": "Terminal "
+        "name": "Terminal "
     },
     {
-        "description": "Terminal"
+        "name": "Terminal"
     },
     {
-        "description": "Terminals "
+        "name": "Terminals "
     },
     {
-        "description": "Text "
+        "name": "Text "
     },
     {
-        "description": "Text tools "
+        "name": "Text tools "
     },
     {
-        "description": "Text"
+        "name": "Text"
     },
     {
-        "description": "Toold"
+        "name": "Toold"
     },
     {
-        "description": "Tools "
+        "name": "Tools "
     },
     {
-        "description": "Tools"
+        "name": "Tools"
     },
     {
-        "description": "Toys "
+        "name": "Toys "
     },
     {
-        "description": "Unspecified "
+        "name": "Unspecified "
     },
     {
-        "description": "User Interface"
+        "name": "User Interface"
     },
     {
-        "description": "User interface"
+        "name": "User interface"
     },
     {
-        "description": "Utilities "
+        "name": "Utilities "
     },
     {
-        "description": "Utilities"
+        "name": "Utilities"
     },
     {
-        "description": "Utility "
+        "name": "Utility "
     },
     {
-        "description": "Utility"
+        "name": "Utility"
     },
     {
-        "description": "Video "
+        "name": "Video "
     },
     {
-        "description": "Video"
+        "name": "Video"
     },
     {
-        "description": "Virtualization"
+        "name": "Virtualization"
     },
     {
-        "description": "WM"
+        "name": "WM"
     },
     {
-        "description": "Wallpapers"
+        "name": "Wallpapers"
     },
     {
-        "description": "Wayfire "
+        "name": "Wayfire "
     },
     {
-        "description": "Web "
+        "name": "Web "
     },
     {
-        "description": "X11"
+        "name": "X11"
     },
     {
-        "description": "__GROUP_SYS_BASE__ "
+        "name": "__GROUP_SYS_BASE__ "
     },
     {
-        "description": "core "
+        "name": "core "
     },
     {
-        "description": "default "
+        "name": "default "
     },
     {
-        "description": "devel "
+        "name": "devel "
     },
     {
-        "description": "geen "
+        "name": "geen "
     },
     {
-        "description": "internet "
+        "name": "internet "
     },
     {
-        "description": "kde"
+        "name": "kde"
     },
     {
-        "description": "system environment"
+        "name": "system environment"
     },
     {
-        "description": "system"
+        "name": "system"
     },
     {
-        "description": "unknown "
+        "name": "unknown "
     },
     {
-        "description": "webapps "
+        "name": "webapps "
     },
     {
-        "description": "ystem Environment"
+        "name": "ystem Environment"
     }
 ]

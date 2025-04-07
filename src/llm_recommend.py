@@ -21,6 +21,27 @@ def get_prompt(req,node):
     """
     return prompt
 
+def deepseek_completion(prompt):
+    client = OpenAI(api_key="sk-e721a556c4004086b97b1d67fee15d63", base_url="https://api.deepseek.com")
+    flag = False
+    while not flag:
+        try:
+            response = client.chat.completions.create(
+                model="deepseek-reasoner",
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant"},
+                    {"role": "user", "content": prompt},
+                    ],
+                stream=False
+            )
+            flag=True
+        except Exception as e:
+            print(e)
+            print("Retrying...")
+            time.sleep(0.5)
+    return response.choices[0].message.content
+
+
 def get_completion(prompt):
     client = OpenAI(
         api_key="sk-sR8RiK6YYrtk8Rss1b29047069804d108211285c7a25356c", # replace with your API key
@@ -31,12 +52,13 @@ def get_completion(prompt):
         try:
             response = client.chat.completions.create(
                     messages=[{"role": "user", "content": prompt}],
-                    model="gpt-4o-2024-11-20",
+                    # model="gpt-4o-2024-11-20",
+                    model="gpt-3.5-turbo",
                     temperature=0   
             )
             flag=True
         except Exception as e:
-            print("Error in generating summarization")
+            print(e)
             print("Retrying...")
             time.sleep(0.5)
     return response.choices[0].message.content
@@ -51,7 +73,8 @@ def find_with_construct_tree(req):
         description = lay1_feature_item["description"]
         feature_node = f"Name:{name} \t Description:{description}"
         prompt = get_prompt(req,feature_node)
-        answer = get_completion(prompt)
+        # answer = get_completion(prompt)
+        answer = deepseek_completion(prompt)
         if answer == "no":
             continue
         ## 如果是yes，继续遍历它的children
@@ -67,7 +90,8 @@ def find_with_construct_tree(req):
             description = layer2_feature_item["description"]
             feature_node = f"Name:{name} \t Description:{description}"
             prompt = get_prompt(req,feature_node)
-            answer = get_completion(prompt)
+            # answer = get_completion(prompt)
+            answer = deepseek_completion(prompt)
             if answer == "no":
                 continue
             ## 如果是yes，继续遍历它的children
@@ -83,7 +107,8 @@ def find_with_construct_tree(req):
                 description = layer3_feature_item["description"]
                 feature_node = f"Name:{name} \t Description:{description}"
                 prompt = get_prompt(req,feature_node)
-                answer = get_completion(prompt)
+                # answer = get_completion(prompt)
+                answer = deepseek_completion(prompt)
                 if answer == "no":
                     continue
                 return name
@@ -106,10 +131,15 @@ def predict_with_construct_tree():
     output_dir = "prediction/artsel"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    with open(f"{output_dir}/with_construct_tree.json.json",'w',encoding='utf-8') as f:
+    with open(f"{output_dir}/with_construct_tree_deepseek.json",'w',encoding='utf-8') as f:
         json.dump(predicted_artifact_list,f,indent=4)
 
+
 if __name__=="__main__":  
+    start_time = time.time()
     predict_with_construct_tree()
+    end_time = time.time()
+    execution_time = end_time - start_time  # 计算执行时间
+    print(f"Function executed in {execution_time:.4f} seconds")
     pass
 
